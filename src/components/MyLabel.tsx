@@ -1,6 +1,6 @@
 import "./myLabel.css";
 
-interface LabelProps {
+export interface LabelProps {
   /**
    * Content of the label
    */
